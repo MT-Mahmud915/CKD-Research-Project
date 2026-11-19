@@ -1,0 +1,12 @@
+Rank,Model,Accuracy,Precision,Recall,F1,ROC_AUC
+1,SVC,1.0,1.0,1.0,1.0,1.0
+2,Deep Neural Network,1.0,1.0,1.0,1.0,1.0
+3,ExtraTreesClassifier,0.9875,1.0,0.9667,0.9831,1.0
+4,LogisticRegression,0.9875,0.9677,1.0,0.9836,0.9993
+5,KNeighborsClassifier,0.9875,0.9677,1.0,0.9836,0.989
+6,GaussianNB,0.975,0.9375,1.0,0.9677,1.0
+7,LGBMClassifier,0.975,1.0,0.9333,0.9655,1.0
+8,RandomForestClassifier,0.975,1.0,0.9333,0.9655,0.9993
+9,CatBoostClassifier,0.975,1.0,0.9333,0.9655,0.9993
+10,DecisionTreeClassifier,0.975,1.0,0.9333,0.9655,0.9667
+11,XGBClassifier,0.9625,1.0,0.9,0.9474,0.9993

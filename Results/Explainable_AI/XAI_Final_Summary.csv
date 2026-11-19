@@ -1,0 +1,10 @@
+Component,Status
+Best Model,ExtraTreesClassifier
+Total Samples,399
+Total Features,24
+SHAP Analysis,Completed
+SHAP Summary Plot,Completed
+SHAP Feature Importance,Completed
+SHAP Waterfall Plot,Completed
+SHAP Dependence Plot,Completed
+LIME Explanation,Completed

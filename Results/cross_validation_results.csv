@@ -1,0 +1,10 @@
+Model,Mean Accuracy,Std
+Extra Trees,0.9975,0.0075
+Logistic Regression,0.995,0.01
+LightGBM,0.995,0.01
+Random Forest,0.99,0.0166
+XGBoost,0.9875,0.0125
+CatBoost,0.9875,0.0125
+Decision Tree,0.9775,0.0208
+KNN,0.9699,0.0312
+Gaussian Naive Bayes,0.965,0.045

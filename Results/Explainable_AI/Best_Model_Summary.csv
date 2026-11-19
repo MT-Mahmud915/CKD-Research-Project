@@ -1,0 +1,2 @@
+Model,Accuracy,Precision,Recall,F1,ROC_AUC
+ExtraTreesClassifier,0.9875,1.0,0.9667,0.9831,1.0

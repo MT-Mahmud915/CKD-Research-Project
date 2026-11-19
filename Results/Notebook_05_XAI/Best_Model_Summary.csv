@@ -1,0 +1,7 @@
+Metric,Value
+Best Model,ExtraTreesClassifier
+Accuracy,0.9875
+Precision,1.0
+Recall,0.9667
+F1-Score,0.9831
+ROC-AUC,1.0

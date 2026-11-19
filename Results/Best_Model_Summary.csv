@@ -1,0 +1,2 @@
+Rank,Model,Accuracy,Precision,Recall,F1,ROC_AUC
+1,SVC,1.0,1.0,1.0,1.0,1.0
